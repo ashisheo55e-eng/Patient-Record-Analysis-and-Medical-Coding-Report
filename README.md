@@ -11,7 +11,7 @@ SUBMITTED BY - ASHISH KUMAR
 Medical Coding Intern
 
 
-                                                                  INTRODUCTION 
+                                                            INTRODUCTION 
 Medical coding is an essential process in the healthcare industry that involves converting medical diagnoses, procedures, treatments, and healthcare services into standardized alphanumeric codes. These codes help maintain accurate medical records, support healthcare billing, facilitate insurance claims, and improve communication between healthcare providers and other healthcare organizations.
 
 
